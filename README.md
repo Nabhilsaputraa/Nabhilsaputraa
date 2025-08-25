@@ -3,14 +3,14 @@
 <p>Beginner in AI/Machine Learning & Web Development</p>
 
 ---
-<br>
+
 <h3>👨‍💻 About Me</h3>
 <p>🌱 Currently learning Web Development </p>
 <p>🤖 Exploring Machine Learning with Python </p>  
 <p>🚀 Interested in combining AI and Web Development </p>
 <p>🎯 Goal: To become an AI/ML Engineer and Web Developer</p>  
 <p>💡 Interests: AI in Sports, Data Science, and Innovative Web Applications</p>
-<br>
+
 
 <h3>🛠️ Skills</h3>
 <h4>🤖 Data Science & Machine Learning</h4>
