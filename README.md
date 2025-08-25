@@ -1,50 +1,52 @@
 <!-- Profile Header -->
-<h1>Hi there 👋, I'm Gilang Nabhil Saputra</h1>
-<p>Beginner in AI/Machine Learning & Web Development</p>
+<h1 align="center">Hi there 👋, I'm Gilang Nabhil Saputra</h1>
+<h3 align="center">Beginner in AI/Machine Learning & Web Development</h3>
 
----
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 
-<h3>👨‍💻 About Me</h3>
-<p>🌱 Currently learning Web Development </p>
-<p>🤖 Exploring Machine Learning with Python </p>  
-<p>🚀 Interested in combining AI and Web Development </p>
-<p>🎯 Goal: To become an AI/ML Engineer and Web Developer</p>  
-<p>💡 Interests: AI in Sports, Data Science, and Innovative Web Applications</p>
+### 👨‍💻 About Me
+- 🌱 Currently learning **Web Development (HTML, CSS, JS, PHP)**  
+- 🤖 Exploring **Machine Learning with Python**  
+- 🚀 Interested in combining **AI and Web Development**  
+- 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
+- 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 
-<h3>🛠️ Skills</h3>
-<h4>🤖 Data Science & Machine Learning</h4>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+### 🛠️ Skills
 
-<h4>📊 Data Visualization</h4>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?logoColor=white)
+#### 🤖 Data Science & Machine Learning  
+![Python](https://img.shields.io/badge/Python-0B0E13?logo=python&logoColor=3776AB)
+![NumPy](https://img.shields.io/badge/NumPy-0B0E13?logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0B0E13?logo=pandas&logoColor=150458)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0B0E13?logo=scikitlearn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0E13?logo=tensorflow&logoColor=FF6F00)
 
-<h4>🌐 Frontend Development</h4>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+#### 📊 Data Visualization  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B0E13?logo=plotly&logoColor=3F4F75)
+![Seaborn](https://img.shields.io/badge/Seaborn-0B0E13?logoColor=009688)
 
-<h4>⚙️ Backend Development</h4>
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+#### 🌐 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-0B0E13?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B0E13?logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0E13?logo=javascript&logoColor=F7DF1E)
 
-<h4>🛠️ Other Tools</h4>
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
----
+#### ⚙️ Backend Development  
+![PHP](https://img.shields.io/badge/PHP-0B0E13?logo=php&logoColor=777BB4)
+
+#### 🛠️ Other Tools  
+![Git](https://img.shields.io/badge/Git-0B0E13?logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/MySQL-0B0E13?logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0E13?logo=postgresql&logoColor=336791)
+![Figma](https://img.shields.io/badge/Figma-0B0E13?logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-0B0E13?logo=canva&logoColor=00C4CC)
+
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 
 ### 📌 Projects
-Here are some example projects (you can update with your real repos):
-- 🔗 [Inspant]([inspant.com](https://inspant.com/)) — sports analytics platform 
+- 🔗 [Inspant](https://inspant.com/) — Sports Analytics Platform  
 
----
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -52,14 +54,14 @@ Here are some example projects (you can update with your real repos):
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhilsaputraa&layout=compact&theme=radical" alt="langs"/>
 </p>
 
----
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B0E13?logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0B0E13?logo=gmail&logoColor=D14836" />
 </a>
 </p>
