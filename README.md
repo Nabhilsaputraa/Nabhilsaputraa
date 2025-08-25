@@ -8,17 +8,53 @@
 - 🌱 Currently learning **Web Development (HTML, CSS, JS, PHP)**  
 - 🤖 Exploring **Machine Learning with Python**  
 - 🚀 Interested in combining **AI and Web Development**  
-- 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**
+- 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
+- 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
 ---
 
 ### 🛠️ Skills
-#### 🌐 Web Development
-- HTML | CSS | JavaScript | PHP  
+#### 🤖 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-#### 🤖 Machine Learning
-- Python | NumPy | Pandas | Scikit-learn  
+---
 
+#### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+#### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+---
+
+#### ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+
+---
+
+#### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ---
 
 ### 📌 Projects
