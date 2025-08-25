@@ -43,7 +43,7 @@
 
 ### 📌 Projects
 Here are some example projects (you can update with your real repos):
-- 🔗 [Inspant]([inspant.com](https://inspant.com/)) — sports analytics platform ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- 🔗 [Inspant]([inspant.com](https://inspant.com/)) — sports analytics platform 
 
 ---
 
