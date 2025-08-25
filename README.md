@@ -1,10 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Gilang Nabhil Saputra</h1>
-<h3 align="center">Beginner in AI/Machine Learning & Web Development</h3>
-
-<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
+<h1>Hi there 👋, I'm Gilang Nabhil Saputra</h1>
+<h3>Beginner in AI/Machine Learning & Web Development</h3>
 
 ### 👨‍💻 About Me
+<hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
 - 🌱 Currently learning **Web Development (HTML, CSS, JS, PHP)**  
 - 🤖 Exploring **Machine Learning with Python**  
 - 🚀 Interested in combining **AI and Web Development**  
