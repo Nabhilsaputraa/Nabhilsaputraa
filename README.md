@@ -11,8 +11,6 @@
 - 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
----
-
 ### 🛠️ Skills
 #### 🤖 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -20,8 +18,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-
 
 #### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
