@@ -11,15 +11,16 @@
 - 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
---- 
+<br>
+<br>
 
 ### 🛠️ Skills
 #### 🤖 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=0B0E13)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=0B0E13)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=0B0E13)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=0B0E13)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=0B0E13)
 
 #### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
