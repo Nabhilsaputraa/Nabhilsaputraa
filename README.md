@@ -11,6 +11,8 @@
 - 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
+--- 
+
 ### 🛠️ Skills
 #### 🤖 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -41,10 +43,7 @@
 
 ### 📌 Projects
 Here are some example projects (you can update with your real repos):
-- 🔗 [Simple Portfolio Website](#) — Personal portfolio using **HTML, CSS, JS**
-- 🔗 [Login & Register System](#) — PHP & MySQL basic authentication
-- 🔗 [House Price Prediction](#) — Regression model with **Python + Scikit-learn**
-- 🔗 [Image Classifier](#) — CNN-based simple image recognition project  
+- 🔗 [Inspant]([inspant.com](https://inspant.com/)) — sports analytics platform ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ---
 
