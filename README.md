@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1>Hi there 👋, I'm Gilang Nabhil Saputra</h1>
-<h3>Beginner in AI/Machine Learning & Web Development</h3>
+<p>Beginner in AI/Machine Learning & Web Development</p>
 
 ---
 
