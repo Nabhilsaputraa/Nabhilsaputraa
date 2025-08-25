@@ -3,36 +3,36 @@
 <p>Beginner in AI/Machine Learning & Web Development</p>
 
 ---
-
-<h1>👨‍💻 About Me</h1>
+<br>
+<h3>👨‍💻 About Me</h3>
 <p>🌱 Currently learning Web Development </p>
-- 🤖 Exploring **Machine Learning with Python**  
-- 🚀 Interested in combining **AI and Web Development**  
-- 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
-- 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
+<p>🤖 Exploring Machine Learning with Python </p>  
+<p>🚀 Interested in combining AI and Web Development </p>
+<p>🎯 Goal: To become an AI/ML Engineer and Web Developer</p>  
+<p>💡 Interests: AI in Sports, Data Science, and Innovative Web Applications</p>
+<br>
 
-### 🛠️ Skills
-
-#### 🤖 Data Science & Machine Learning
+<h3>🛠️ Skills</h3>
+<h4>🤖 Data Science & Machine Learning</h4>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-#### 📊 Data Visualization
+<h4>📊 Data Visualization</h4>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logoColor=white)
 
-#### 🌐 Frontend Development
+<h4>🌐 Frontend Development</h4>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-#### ⚙️ Backend Development
+<h4>⚙️ Backend Development</h4>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
-#### 🛠️ Other Tools
+<h4>🛠️ Other Tools</h4>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
