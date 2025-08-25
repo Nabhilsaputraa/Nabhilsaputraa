@@ -12,7 +12,7 @@
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
 ### 🛠️ Skills
-<hr style="border: 0.5px solid #333; margin: 20px 0;" />
+······································
 #### 🤖 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
