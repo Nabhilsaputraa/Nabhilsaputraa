@@ -4,15 +4,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **Web Development (HTML, CSS, JS, PHP)**  
+<h1>👨‍💻 About Me</h1>
+<p>🌱 Currently learning Web Development </p>
 - 🤖 Exploring **Machine Learning with Python**  
 - 🚀 Interested in combining **AI and Web Development**  
 - 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
 ### 🛠️ Skills
-······································
+
 #### 🤖 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
