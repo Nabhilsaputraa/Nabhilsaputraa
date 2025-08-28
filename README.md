@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Web Development (HTML, CSS, JS, PHP)**  
 - 🤖 Exploring **Machine Learning with Python**  
 - 🚀 Interested in combining **AI and Web Development**  
-- 🎯 Goal: To become an **AI/ML Engineer** and **Web Developer**  
+- 🎯 Goal: To become an **AI/ML Engineer** 
 - 💡 Interests: **AI in Sports, Data Science, and Innovative Web Applications**
 
 <hr style="border:0.5px solid #0B0E13; margin:20px 0;" />
